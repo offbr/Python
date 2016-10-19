@@ -1,0 +1,25 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/pybasic/com.python.pydev.analysis/v2_indexcache
+pack1.test1|1476846338000000000|/Users/All/Documents/work/workspace/pysou/pybasic/pack1/test1.py
+pack1.test2|1476848636000000000|/Users/All/Documents/work/workspace/pysou/pybasic/pack1/test2.py
+pack1.__init__|1476844324000000000|/Users/All/Documents/work/workspace/pysou/pybasic/pack1/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=pack1.test1
+1=pack1.test2
+-- END DICTIONARY
+-- START TREE 1
+7
+A|1|A!11@
+a|2|a!19@a!11@
+b|1|b!19@
+c|1|c!19@
+ss|0|
+tot|1|total!19@
+v1|1|v1!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
