@@ -1,0 +1,69 @@
+'''
+Created on 2016. 10. 24.
+
+함수 => def 함수명(arg...) : 
+'''
+#내장 함수
+from test.pyclbr_input import Other
+print(sum([3 + 5]), sum({3, 5}), sum((3, 5)))
+print(int(1.7), float(7), str(5) + '오')
+print(round(1.7), round(1.4))
+
+import math
+print(math.ceil(1.2), math.ceil(1.7))
+print(math.floor(1.2), math.floor(1.7))
+
+a = 10 
+b = eval('a + 5') #문자열을 수식을 만들어 준다.
+print(b)
+
+print()
+b_list = [True, False]
+print(all(b_list))
+print(any(b_list))
+
+b_list2 = [1,2,3,4,5,6,7]
+print(all(a < 10 for a in b_list2)) #모든 숫자가 10 미만이야?
+print(any(a < 10 for a in b_list2)) #모든 숫자가 10 미만이 하나라도 있어?
+
+x = [10, 20, 30]; y = ['a', 'b']
+for i in zip(x, y): #매칭
+    print(i)
+
+print('**' * 20)
+#사용자 정의 함수
+def DoFunc1():
+    print('DoFunc1 Process')
+
+def DoFunc2(arg1, arg2):
+    print('DoFunc2 Process')
+    aa = arg1 + arg2
+    print('aa : ' , aa)
+
+print('어쩌구 저쩌구...')
+DoFunc1()
+print()
+DoFunc1()
+
+#OtherFunc = DoFunc1() #실행 결과를 줌
+OtherFunc = DoFunc1 #주소를 치환
+OtherFunc()
+print(id(OtherFunc), id(DoFunc1))
+print('현재 파일의 객체 목록:', globals())
+
+print()
+DoFunc2(10, 20)
+
+
+print('종료')
+
+
+
+
+
+
+
+
+
+
+

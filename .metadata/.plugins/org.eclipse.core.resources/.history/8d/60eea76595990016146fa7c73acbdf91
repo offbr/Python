@@ -1,0 +1,34 @@
+'''
+Created on 2016. 10. 24.
+
+인수 키워드 매핑
+'''
+
+def ShowGugu(start, end = 5):
+    for dan in range(start, end + 1):
+        print(str(dan) + ' 단 출력')
+        
+ShowGugu(2, 3)   
+print()
+ShowGugu(3)
+print()
+ShowGugu(start=2, end=3)
+print()
+ShowGugu(end=3, start=2)
+print()
+ShowGugu(2, end=3)
+#ShowGugu(start=2, 3) #SyntaxError: positional argument follows keyword argument
+#ShowGugu(end=4, 3) #SyntaxError: positional argument follows keyword argument
+
+# 가변 인수 
+def Func1(*ar):
+    print(ar)
+    for i in ar:
+        print(str(i) + ' ')
+    
+Func1(1, 2)
+Func1(1, 2, 3, 4, 5)
+
+
+
+

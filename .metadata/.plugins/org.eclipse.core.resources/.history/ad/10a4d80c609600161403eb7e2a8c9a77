@@ -1,0 +1,18 @@
+'''
+List : 다양한 형태의 자료 저장. []를 사용. 순서O. 수정O. 
+'''
+
+a = [1, 2, 3]
+b = [10, a, 20.5, True, '안녕']
+print(a, id(a))
+print(b, id(b))
+
+print()
+friends = ['오공', '팔계', '삼장']
+print(friends, len(friends), friends[1])
+
+friends.append('관우')
+friends.remove('팔계')
+friends.insert(0, '장비')
+friends.extend(['조조', '제갈량'])
+print(friends)

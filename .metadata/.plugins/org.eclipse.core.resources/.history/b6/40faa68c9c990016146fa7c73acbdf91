@@ -1,0 +1,13 @@
+'''
+Created on 2016. 10. 24.
+
+일급함수 : 함수 안에 함수, 인자로 함수를 전달, 반환값이 함수인 경우
+'''
+def func1(a, b):
+    return a + b
+func2 = func1
+print(func1(3, 4))
+print(func2(3, 4))
+
+print()
+def fucn3(func, a, b:

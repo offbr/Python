@@ -1,0 +1,10 @@
+'''
+tuple : list와 유사. ()를 사용. 읽기전용. 검색속도가 빠름.
+'''
+#t = 'a', 'b', 'c'
+t = ('a','b','c')
+print(t, type(t))
+imsi = ('a') # tuple 에서 하나 쓸때는 , 를 적용(적용 안할경우 스트링) 복수는 마지막에 안써줘도 된다
+imsi2 = ('a',)
+print(imsi, imsi2)
+print(type(imsi), type(imsi2))

@@ -1,0 +1,7 @@
+'''
+정규표현식 
+'''
+import re;
+
+ss = '1234 abc가나다ABC_555_6_12345'
+print(re.findall(r'123', ss)) #반환타입 list

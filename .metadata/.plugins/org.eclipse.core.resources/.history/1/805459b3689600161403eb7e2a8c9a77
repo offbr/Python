@@ -1,0 +1,48 @@
+'''
+set : {}를 사용. 순서X. 중복X (중복된 데이터 제거할 때 효과적)
+'''
+a = {1, 2, 3}
+print(a, len(a))
+b = {3, 4}
+print(a.union(b))
+print(a.intersection(b))
+print(a | b, a - b, a & b)
+
+#print(b[0]) #TypeError: 'set' object does not support indexing
+b.add(5)
+print(b)
+b.update({5, 6})
+print(b)
+b.update([7, 8])
+print(b)
+b.update((9, 10))
+print(b)
+
+print()
+b.discard(7)
+b.remove(8)
+print(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
