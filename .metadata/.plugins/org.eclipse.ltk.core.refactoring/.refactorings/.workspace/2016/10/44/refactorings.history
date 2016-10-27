@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;pybasic/etc/mymod3.py&apos;" deleteContents="false" description="Delete resource &apos;pybasic/etc/mymod3.py&apos;" element1="/pybasic/etc/mymod3.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1477361470341"/>&#x0A;<refactoring comment="Delete resource &apos;pybasic/etc/mymod4.py&apos;" deleteContents="false" description="Delete resource &apos;pybasic/etc/mymod4.py&apos;" element1="/pybasic/etc/mymod4.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1477361675425"/>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;pybasic&apos;" deleteContents="true" description="Delete resource &apos;pybasic&apos;" element1="/pybasic" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1477541383113"/>
 </session>

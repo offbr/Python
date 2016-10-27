@@ -1,9 +1,0 @@
-'''
-Created on 2016. 10. 27.
-
-with 구문 : close() X
-'''
-try:
-    with open('ftest3.txt', mod='w', encoding='utf-8')
-except Exception as e:
-    print('에러:', e)

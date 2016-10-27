@@ -1,8 +1,0 @@
-'''
-Created on 2016. 10. 25.
-
-공용으로 사용될 모듈 직접 작성
-'''
-myage = 33
-
-def dataList(*ar):

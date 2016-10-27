@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;pybasic/pack1/test8ifwhilefor&apos;" deleteContents="false" description="Delete resource &apos;pybasic/pack1/test8ifwhilefor&apos;" element1="/pybasic/pack1/test8ifwhilefor" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1476932760569"/>&#x0A;<refactoring comment="Delete resource &apos;pybasic/pack1/test8if&apos;" deleteContents="false" description="Delete resource &apos;pybasic/pack1/test8if&apos;" element1="/pybasic/pack1/test8if" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1476932764415"/>
-</session>

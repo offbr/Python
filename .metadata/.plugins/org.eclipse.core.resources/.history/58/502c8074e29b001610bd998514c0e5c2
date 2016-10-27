@@ -1,9 +1,0 @@
-'''
-Created on 2016. 10. 27.
-
-file i/o
-'''
-try:
-    
-except Exception as e:
-    print('err: ', e)
