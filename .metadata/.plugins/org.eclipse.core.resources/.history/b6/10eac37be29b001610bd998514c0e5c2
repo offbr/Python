@@ -1,0 +1,9 @@
+'''
+Created on 2016. 10. 27.
+
+file i/o
+'''
+try:
+    print('파일 읽기')
+except Exception as e:
+    print('err: ', e)

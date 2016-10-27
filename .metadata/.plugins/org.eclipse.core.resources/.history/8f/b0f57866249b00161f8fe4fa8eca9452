@@ -1,0 +1,8 @@
+'''
+Created on 2016. 10. 26.
+
+메소드 오버라이드 
+'''
+class Parent:
+    def printInfo(self):
+        pass

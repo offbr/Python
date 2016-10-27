@@ -1,0 +1,14 @@
+'''
+Created on 2016. 10. 27.
+
+with 구문 : close() X
+'''
+try:
+    with open('ftest3.txt', mode='w', encoding='utf-8') as f1:
+        f1.write('파이썬으로 문서 저장\n')
+        f1.write('with 구문 사용\n')
+        f1.write('명시적으로 close() 필요없다 (알아서 해준다)\n')
+    print('저장 완료')
+        
+except Exception as e:
+    print('에러:', e)

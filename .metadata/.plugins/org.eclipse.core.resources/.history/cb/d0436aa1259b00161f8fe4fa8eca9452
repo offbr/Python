@@ -1,0 +1,16 @@
+'''
+Created on 2016. 10. 26.
+
+다중 상속 : 순서가 중요
+'''
+class Tiger:
+    data = '호랑이 세상'
+    
+    def Cry(self):
+        print('호랑이 어흥!!!')
+        
+    def Eat(self):
+        print('맹수는 고기를 먹음')
+
+class Lion:
+    

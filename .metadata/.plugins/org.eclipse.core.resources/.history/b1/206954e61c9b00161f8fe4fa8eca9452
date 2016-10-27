@@ -1,0 +1,15 @@
+'''
+Created on 2016. 10. 26.
+
+상속 is a     클래스 aa(상속클래스):
+'''
+class Animal:
+    def move(self):
+        print('움직이는 생물')
+
+class Dog(Animal):  # is a
+    def my(self):
+        print('나는 개야~')
+        
+dog1 = Dog()
+dog1.

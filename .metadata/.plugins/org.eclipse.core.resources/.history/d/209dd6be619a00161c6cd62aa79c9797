@@ -1,0 +1,15 @@
+'''
+Created on 2016. 10. 25.
+'''
+class Car:
+    handle = 0;
+    speed = 0;
+    
+    def __init__(self, name, speed):
+        self.speed  = speed
+        self.name  = name
+    
+    def showData(self):
+        km = '킬로미터'
+        msg = '속도: ' + str(self.speed) + km
+        return msg

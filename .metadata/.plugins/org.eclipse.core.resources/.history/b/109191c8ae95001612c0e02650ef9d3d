@@ -1,7 +1,0 @@
-'''
-집합 자료형 - str, list, tuple, dict
-'''
-#str : 문자들을 표현, 따옴표를 두름, 순서o, 수정x, 슬라이싱 가능
-
-a = 'Hello'
-print(a)

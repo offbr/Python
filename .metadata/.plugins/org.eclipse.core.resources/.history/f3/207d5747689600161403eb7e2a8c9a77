@@ -1,9 +1,0 @@
-'''
-set : {}를 사용. 순서X. 중복X (중복된 데이터 제거할 때 효과적)
-'''
-a = {1, 2, 3}
-print(a, len(a))
-b = {3, 4}
-print(a.union(b))
-print(a.intersection(b))
-print(a | b, a - b, a & b)

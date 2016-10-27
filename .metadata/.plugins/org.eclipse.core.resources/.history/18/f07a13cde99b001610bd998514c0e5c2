@@ -1,0 +1,65 @@
+'''
+Created on 2016. 10. 27.
+
+동이름으로 우편주소 찾기
+'''
+try:
+    dong = input('동이름을 입력:')
+    print(dong)
+    
+    with open(r'zipcode.txt', mode='r', encoding='euc-kr') as f:
+        line = f.readline()
+    
+    print(line)
+    
+
+except Exception as e:
+    print('err :', e)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

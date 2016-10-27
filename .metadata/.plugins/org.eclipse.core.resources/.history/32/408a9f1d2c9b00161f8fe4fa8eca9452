@@ -1,0 +1,61 @@
+'''
+Created on 2016. 10. 26.
+
+문제 1
+'''
+from abc import abstractmethod, ABCMeta
+from test.pickletester import metaclass
+class Employee(metaclass=ABCMeta):
+    irum = ''; nai = 0
+
+    @abstractmethod
+    def pay(self):
+        pass 
+
+    @abstractmethod
+    def data_print(self):
+        pass 
+
+    def display(self):
+        print(self.irum, self.age)
+        
+class Temporany(Employee):
+    ilsu=0; ildang=0
+    
+    def __init__(self, irum, nai, ilsu, ildang):
+        super().irum = irum
+        super().nai = nai
+        self.ilsu = ilsu
+        self.ildang = ildang
+        self.data_print()
+        self.pay()
+    
+    def pay(self):
+        print('월급:',self.ilsu * self.ildang)
+        
+    def data_print(self):
+        print('이름:',super().irum,' 나이:',super().nai)
+            
+t = Temporany('홍길동', 25, 10, 15000)
+print(t)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+

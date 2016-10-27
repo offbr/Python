@@ -1,0 +1,13 @@
+'''
+Created on 2016. 10. 26.
+
+상속 is a
+'''
+class Animal:
+    def move(self):
+        print('움직이는 생물')
+
+class Dog:
+    def my(self):
+        print('나는 개야~
+        ')

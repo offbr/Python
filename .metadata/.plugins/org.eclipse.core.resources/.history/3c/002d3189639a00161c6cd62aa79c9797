@@ -1,0 +1,9 @@
+'''
+Created on 2016. 10. 25.
+'''
+kor = 100
+
+def abc():
+    print('함수')
+
+class My:

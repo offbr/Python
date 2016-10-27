@@ -1,5 +1,0 @@
-'''
-dict : {'키','값'}, 순서X
-'''
-mydic = dict(k1=1, k2='abc', k3=3.4)
-print(mydic)

@@ -1,0 +1,20 @@
+'''
+Created on 2016. 10. 25.
+'''
+kor = 100
+
+def abc():
+    print('함수')
+
+class My:
+    kor = 90
+    def abc(self):
+        print('메소드')
+        
+    def show(self):
+        kor = 70
+        print(kor)
+        print(self.kor)
+        
+m = My()
+m.show()

@@ -1,0 +1,14 @@
+'''
+Created on 2016. 10. 26.
+
+나만의 타입을 생성 : Singer type
+'''
+class Singer:
+    title_song = '스머프송'
+    
+    def sing(self):
+        msg = '노래는'
+        print(msg, self.title_song, '랄랄라랄랄라라라랄랄라~')
+        
+papa = Singer()
+papa.sing()

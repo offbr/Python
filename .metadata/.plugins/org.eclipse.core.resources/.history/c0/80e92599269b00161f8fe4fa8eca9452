@@ -1,0 +1,15 @@
+'''
+Created on 2016. 10. 26.
+
+추상 클래스
+'''
+from abc import abstractmethod, ABCMeta
+from test.pickletester import metaclass
+class AbstractClass(metaclass=ABCMeta):
+    
+    @abstractmethod
+    def abcMethod(self): #추상메소드
+        pass
+    
+    def normalMethod(self):
+        print(' 일반메소드')

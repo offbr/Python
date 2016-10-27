@@ -1,0 +1,9 @@
+'''
+Created on 2016. 10. 27.
+
+gui wxPython
+'''
+import wx
+
+app = wx.App()
+`

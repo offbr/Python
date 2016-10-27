@@ -1,0 +1,20 @@
+'''
+Created on 2016. 10. 25.
+
+공용으로 사용될 모듈 직접 작성
+'''
+myage = 33
+
+def dataList(*ar):
+    print(ar)
+    
+def kbs():
+    print('채널 9')
+
+def mbc():
+    print('채널 11')
+
+def sbs():
+    print('채널 5')
+
+    

@@ -1,0 +1,10 @@
+'''
+Created on 2016. 10. 25.
+
+사용자 정의 모듈
+'''
+print('사용자 정의 모듈 읽기')
+import pack3.mymod1
+
+print(dir(pack3.mymod1)) # 가지고 있는 변수및 함수
+print(pack3.mymod1.__file__) #경로

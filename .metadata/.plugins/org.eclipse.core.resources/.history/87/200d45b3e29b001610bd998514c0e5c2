@@ -1,0 +1,13 @@
+'''
+Created on 2016. 10. 27.
+
+file i/o
+'''
+import os
+
+try:
+    print('파일 읽기')
+    print(os.getcwd())
+    #f1 = open()
+except Exception as e:
+    print('err: ', e)

@@ -1,0 +1,14 @@
+'''
+Created on 2016. 10. 27.
+
+gui wxPython
+'''
+import wx
+
+app = wx.App()
+
+frame = wx.Frame(None, title='연습')
+frame.Center()
+frame.Size(300, 250)
+frame.Show(True)
+app.MainLoop()

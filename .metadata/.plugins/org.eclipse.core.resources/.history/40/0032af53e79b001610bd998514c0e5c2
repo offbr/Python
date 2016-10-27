@@ -1,0 +1,9 @@
+'''
+Created on 2016. 10. 27.
+
+with 구문 : close() X
+'''
+try:
+    
+except Exception as e:
+    print('에러:', e)
