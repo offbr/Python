@@ -1,0 +1,10 @@
+'''
+Created on 2016. 11. 3.
+
+결과는 브라우저로 전송
+'''
+ss = '이건 파이썬 변수 값이야~'
+print('Content-Type:text/html;charset=utf-8\n')
+print('<html><body>')
+print('<b>안녕 난 파이썬이라고 해</b><br/>')
+print('</body></html>')

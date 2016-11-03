@@ -1,0 +1,13 @@
+'''
+Created on 2016. 10. 28.
+
+원격DB - mariaDB
+'''
+import MySQLdb
+import _mysql_exceptions
+
+print(MySQLdb.version_info)
+conn = _mysql.connect(user='root', passwd='', host='127.0.0.1', database='test')
+print(conn)
+
+conn.close()

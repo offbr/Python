@@ -1,0 +1,6 @@
+'''
+Created on 2016. 10. 31.
+
+부서번호 입력 후 직원자료 읽
+'''
+import MySQLdb

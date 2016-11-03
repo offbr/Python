@@ -1,0 +1,54 @@
+'''
+Created on 2016. 11. 3.
+
+검색 로봇 연습
+'''
+import urllib.robotparser
+'''
+rp = urllib.robotparser.RobotFileParser('http://blog.daum.net/robots.txt')
+rp.read()
+
+print(rp)
+print()
+print(rp.can_fetch('mycrawler', 'http://blog.daum.net))
+'''
+crawler_name = 'python _daum_crawler'
+mainpage = 'http://blog.daum.net/'
+
+rp = urllib.robotparser.RobotFileParser(manpage + 'robots.txt')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

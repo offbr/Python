@@ -1,0 +1,30 @@
+'''
+Created on 2016. 11. 1.
+
+thread의 활성화, 비활성화
+'''
+import threading, time
+
+bread_plate = 0 #공유자원
+cv= threading.Condition() #lock를 위한 조건변수
+
+class Maker(threading.Thread):
+    def run(self):
+        global bread_plate
+        for i in range(30):
+            cv.acquire() #공유자원 충돌방지
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

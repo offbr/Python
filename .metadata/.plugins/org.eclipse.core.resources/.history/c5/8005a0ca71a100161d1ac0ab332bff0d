@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+body{
+	background-color : black;
+	color : lime;
+}
+a{
+	color : lime;
+	
+}
+</style>
+</head>
+<body>
+<h2>메인 페이지</h2>
+<ul>
+	<li><a href="cgi_bin/hello.py">hello.py</a></li>
+	<li><a href="cgi_bin/world.py">world.py</a></li>
+	<li><a href="friend.html">friend</a></li>
+	<li><a href="cgi_bin/sangpum.py">sangpum</a></li>
+</ul>
+</body>
+</html>

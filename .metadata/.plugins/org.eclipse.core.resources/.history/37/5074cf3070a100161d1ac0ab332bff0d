@@ -1,0 +1,12 @@
+'''
+Created on 2016. 11. 3.
+
+동적 서버
+'''
+from http.server import CGIHTTPRequestHandler, HTTPServer
+
+port = 8888
+
+class handler(CGIHTTPRequestHandler):
+    cg_directories = ['/cgi_bin']
+    

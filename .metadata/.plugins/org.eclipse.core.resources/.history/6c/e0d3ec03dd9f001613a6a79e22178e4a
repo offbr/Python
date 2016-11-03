@@ -1,0 +1,14 @@
+'''
+Created on 2016. 11. 1.
+
+'''
+import socket
+import threading
+
+def Handle(socket):
+    while True:
+        data = socket.recv(1024)
+        if not data:
+            continue
+        print()    
+        

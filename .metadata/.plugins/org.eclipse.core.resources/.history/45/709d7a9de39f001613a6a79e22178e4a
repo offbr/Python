@@ -1,0 +1,27 @@
+'''
+Created on 2016. 11. 1.
+
+XML 문서 처리
+'''
+import xml.etree.ElementTree as etree
+
+xmlfile = etree.parse("my.xml") 
+#etree.dump(xmlfile)
+
+print()
+root = xmlfile.getroot()
+print(root.tag) #items
+print()
+print(root[0].tag) #item
+print('\n요소와 속성 읽기')
+print(root[0][0].tag) #name
+print(root[0][1].tag) #tel
+print(root[0][0].attrib) #속성
+print(root[0][2].attrib) #속성
+print(root[0][2].attrib.keys())
+print(root[0][2].attrib.values())
+
+print(list(root[0][2].attrib.keys()))
+print(root[0][2].attrib.get('kor'))
+imsi = list(root[0][2].attrib.values())
+print(imsi[0] + " " + imsi[1])

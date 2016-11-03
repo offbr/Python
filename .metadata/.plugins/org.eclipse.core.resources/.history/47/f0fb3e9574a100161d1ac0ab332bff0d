@@ -1,0 +1,7 @@
+import cgi
+
+form = cgi.FieldStorage
+
+name = form['name'].value
+tel = form['tel'].value
+gen = form['gen'].value

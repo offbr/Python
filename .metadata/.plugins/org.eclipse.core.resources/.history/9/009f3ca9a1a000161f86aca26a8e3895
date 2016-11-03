@@ -1,0 +1,56 @@
+'''
+Created on 2016. 11. 2.
+
+서울시 도서관 정보 읽기
+'''
+import json
+import requests
+
+def spider():
+    base_url = 'http://openapi.seoul.go.kr:8088/sample/json/SeoulLibraryTime/1/5/'
+    source_code = requests.get(base_url)
+    
+    #print(source_code)
+    plain_text = source_code.text
+    print(plain_text)
+    
+    print()
+    json_data = json.loads(plain_text)
+    print(json_data)
+    print()
+    print(json_data['SeoulLibraryTime']['row'])
+    print()
+    print(json_data['SeoulLibraryTime']['row'][0]['LBRRY_NAME'])
+    print(json_data['SeoulLibraryTime']['row'][0]['ADRES'])
+    print(json_data['SeoulLibraryTime']['row'][0]['TEL_NO'])
+
+    print()
+    print(len(json_data['SeoulLibraryTime']['row']))
+    
+    print()
+    for i in range(len(json_data['SeoulLibraryTime']['row'])):
+        print('도서관명:',json_data['SeoulLibraryTime']['row'][i]['LBRRY_NAME'], end=" ")
+              '주소:',json_data['SeoulLibraryTime']['row'][i]['ADRES']/
+              '전화번호:',json_data['SeoulLibraryTime']['row'][i]['TEL_NO'])
+    
+if __name__ == '__main__':
+    spider()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

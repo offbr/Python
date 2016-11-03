@@ -1,0 +1,9 @@
+'''
+Created on 2016. 11. 1.
+
+thread로 날짜, 시간 출력
+'''
+import time
+now = time.localtime()
+
+print('현재는 {}년 {}월 {}일'.format(now.tm_year)

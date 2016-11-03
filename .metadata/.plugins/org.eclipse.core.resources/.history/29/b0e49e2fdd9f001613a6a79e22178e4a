@@ -1,0 +1,15 @@
+'''
+Created on 2016. 11. 1.
+
+'''
+import socket
+import threading
+import sys            
+
+def Handle(socket):
+    while True:
+        data = socket.recv(1024)
+        if not data:
+            continue
+        print(data.decode('utf-8'))
+sys.stdout.flush() #캐시메모리삭제

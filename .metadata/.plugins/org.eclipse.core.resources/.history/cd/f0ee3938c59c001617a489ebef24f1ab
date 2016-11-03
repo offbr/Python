@@ -1,0 +1,14 @@
+'''
+Created on 2016. 10. 28.
+
+원격DB - mariaDB
+'''
+import MySQLdb
+import sys
+# open a database connection
+# be sure to change the host IP address, username, password and database name to match your own
+print(MySQLdb.version_info)
+conn = MySQLdb.connect(user='root', passwd='', host='127.0.0.1', database='test')
+print(conn)
+
+conn.close()

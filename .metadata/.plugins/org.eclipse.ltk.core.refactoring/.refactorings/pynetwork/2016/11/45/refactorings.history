@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;pynetwork/pack/doc/ftext.json&apos; to &apos;ftest.json&apos;" description="Rename resource &apos;ftext.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="pack/doc/ftext.json" name="ftest.json" stamp="1478049413253" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;pynetwork/py_http_cgi/cgi_bin&apos; to &apos;cgi-bin&apos;" description="Rename resource &apos;cgi_bin&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="py_http_cgi/cgi_bin" name="cgi-bin" stamp="1478142070093" updateReferences="true"/>
+</session>

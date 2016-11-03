@@ -1,0 +1,13 @@
+'''
+Created on 2016. 11. 2.
+
+json 처리
+'''
+import codecs
+import json
+
+json_file = "./ftest.json"
+jsondata = {}
+
+def readData(filename):
+    f = codes.open(filename, 'rb', encoding='utf-8')

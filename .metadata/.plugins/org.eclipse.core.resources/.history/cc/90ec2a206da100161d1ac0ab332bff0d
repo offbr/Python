@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 style="font-size: 80px; color: red">파이썬 서버 사용</h1>
+<input type="button" value="이전" onclick="history.back()">
+
+</body>
+</html>

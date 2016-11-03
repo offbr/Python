@@ -1,0 +1,16 @@
+'''
+Created on 2016. 11. 3.
+
+db 자료 출력
+'''
+import MySQLdb
+
+config = {
+    'host' : '127.0.0.1',
+    'user' : 'root',
+    'password' : '',
+    'database' : 'test',
+    'port' : 3306,
+    'use_unicode' : True,
+    'charset' : 'utf8'
+}

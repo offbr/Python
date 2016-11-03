@@ -1,0 +1,6 @@
+'''
+Created on 2016. 11. 1.
+
+XML 문서 처리
+'''
+import xml.etree.ElementTree as etree

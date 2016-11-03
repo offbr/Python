@@ -1,0 +1,65 @@
+'''
+Created on 2016. 11. 2.
+
+JSON
+'''
+import json
+
+data = {
+    'a':0,
+    'b':9.6,
+    'c':'Hello world',
+    'd':{
+        'sbs':5
+    }
+}
+print(data) #dict type
+print(type(data))
+print()
+json_data = json.dumps(data) #반환값이 str type / 키값들이 ""로 바뀜
+print(json_data)
+print(type(json_data))
+
+print()
+json_data2 = json.loads(json_data) #dict type
+print(json_data2)
+print(type(json_data2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

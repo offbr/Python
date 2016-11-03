@@ -1,0 +1,8 @@
+'''
+Created on 2016. 11. 1.
+
+socket : TCP/IP 기반 
+'''
+import socket
+
+print(socket.getservbyname('http'))

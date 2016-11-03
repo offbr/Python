@@ -1,0 +1,12 @@
+'''
+Created on 2016. 10. 28.
+
+원격DB - mariaDB
+'''
+import MySQLdb
+
+frint(MySQLdb.version_info)
+conn = MySQLdb.Connect(user='root', password='', host='127.0.0.1', database='test', port='3306')
+print(conn)
+
+conn.close()

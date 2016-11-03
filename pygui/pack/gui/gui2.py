@@ -69,4 +69,5 @@ if __name__ == '__main__':
     app = wx.App()
     Test2(None, '버튼연습')
     app.MainLoop()
+
     

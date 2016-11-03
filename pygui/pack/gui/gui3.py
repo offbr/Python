@@ -14,7 +14,7 @@ class Test2(wx.Frame):
         panel1.SetBackgroundColour("BLUE")
         panel2.SetBackgroundColour("ORANGE")
         
-        box = wx.BoxSizer(wx.VERTICAL)
+        box = wx.BoxSizer(wx.HORIZONTAL)
         box.Add(panel1, 1, wx.EXPAND)
         box.Add(panel2, 2, wx.EXPAND)
         

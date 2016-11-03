@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+pack.__init__|/Users/All/Documents/work/workspace/pysou/pydb/pack/__init__.py
+pack.db.__init__|/Users/All/Documents/work/workspace/pysou/pydb/pack/db/__init__.py
+pack.db.db1|/Users/All/Documents/work/workspace/pysou/pydb/pack/db/db1.py
+pack.db.db2|/Users/All/Documents/work/workspace/pysou/pydb/pack/db/db2.py
+pack.db.db3|/Users/All/Documents/work/workspace/pysou/pydb/pack/db/db3.py
+pack.db.db4gui|/Users/All/Documents/work/workspace/pysou/pydb/pack/db/db4gui.py
+pack.db.db5crud|/Users/All/Documents/work/workspace/pysou/pydb/pack/db/db5crud.py

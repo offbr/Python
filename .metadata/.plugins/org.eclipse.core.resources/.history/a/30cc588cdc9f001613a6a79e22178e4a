@@ -1,0 +1,61 @@
+'''
+Created on 2016. 11. 1.
+
+멀티 채팅 서버
+'''
+import socket
+import threading
+
+ss = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+ss.bind(('', 9999))
+ss.listen(5)
+print('채팅 서버 서비스 중...')
+users = []
+
+def ChatUser(conn):
+    name = conn.recv(1024)
+    data = '^^ ' + name.decode('utf-8') + '님이 입장하셨습니다'
+    
+    try:
+        for p in users:
+            p.send(data.encode('utf-8'))
+            
+        while True:
+            msg = conn.recv(1024)
+            data = name.decode('utf-8') + '님 메시지: ' + msg.decode('utf-8')
+            for p in users:
+                p.send(data.encode('utf-8'))
+            
+    except:
+        users.remove(conn)
+        data = '~~' + name.decode('utf-8') + '님이 퇴장하셨습니다 ~~'
+        print(data)
+        if users:
+            for p in users:
+                p.send(data.encode('utf-8'))
+        
+        else:
+            print('exit')
+            
+while True:
+    conn, addr = ss.accept()
+    users.append(conn)
+    th = threading.Thread(target=ChatUser)
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    

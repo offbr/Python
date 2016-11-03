@@ -1,0 +1,7 @@
+'''
+Created on 2016. 11. 1.
+기상청 제공 날씨 정보 읽기 XML
+'''
+import urllib.request
+
+webdata = urllib.request.urlopen('http://www.kma.go.kr/XML/weather/sfc_web_map.xml')

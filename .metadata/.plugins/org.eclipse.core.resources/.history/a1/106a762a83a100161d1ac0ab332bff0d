@@ -1,0 +1,16 @@
+#!/usr/local/bin/python3.5
+
+import cgi
+
+form = cgi.FieldStorage
+
+name = form['name'].value
+tel = form["tel"].Value
+gen = form["gen"].Value
+
+print('Content-Type:text/html;charset=utf-8\n')
+print('''
+<html><body>
+이름은 {0}, 전화는 {1}, 성별은 {2}
+</body></html>
+'''.format(name, tel, gen))

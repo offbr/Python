@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+body{
+	background-color : black;
+	color : lime;
+}
+a{
+	color : lime;
+	
+}
+</style>
+</head>
+<body>
+<h2>친구 자료</h2>
+<form action="/cgi-bin/friend.py" method="post">
+
+</form>
+</body>
+</html>

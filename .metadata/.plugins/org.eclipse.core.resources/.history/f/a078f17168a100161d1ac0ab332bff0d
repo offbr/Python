@@ -1,0 +1,10 @@
+'''
+Created on 2016. 11. 3.
+
+검색 로봇 연습
+'''
+import urllib.robotparser
+
+rp = urllib.robotparser.RobotFileParser('http://blog.daum.net/robotstxt')
+rp.read()
+and print(rp)

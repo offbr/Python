@@ -1,0 +1,10 @@
+'''
+Created on 2016. 11. 3.
+
+Http server를 운영
+'''
+from http.server import SimpleHTTPRequestHandler, HTTPServer
+
+port = 7777
+
+handler

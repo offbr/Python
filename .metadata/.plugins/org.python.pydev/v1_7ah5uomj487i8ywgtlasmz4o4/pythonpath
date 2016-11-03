@@ -1,4 +1,5 @@
-/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5
-/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin
-/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload
-/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages
+/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5
+/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin
+/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload
+/usr/local/lib/python3.5/site-packages
+/usr/local/lib/python3.5/site-packages/setuptools-28.6.1-py3.5.egg

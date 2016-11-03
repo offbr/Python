@@ -1,0 +1,18 @@
+'''
+Created on 2016. 11. 1.
+
+멀티 채팅 서버
+'''
+import socket
+import threading
+
+ss = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+ss.bind(('', 9999))
+ss.listen(5)
+print('채팅 서버 서비스 중...')
+users = []
+
+def ChatUser(conn):
+    name = conn.recv(1024)
+    data = '^^ ' + name.decode('utf-8') + '님 입장 '
+    

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<name id="ks1">홍길동</name>
+		<tel>000-0000-0000</tel>
+		<exam kor="100" eng="90"/>
+	</item>
+	<item>
+		<name id="ks2">고길동</name>
+		<tel>000-0000-0000</tel>
+		<exam kor="90" eng="100"/>
+	</item>
+	
+</items>

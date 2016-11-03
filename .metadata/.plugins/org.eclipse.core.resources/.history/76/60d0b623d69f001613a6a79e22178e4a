@@ -1,0 +1,19 @@
+'''
+Created on 2016. 11. 1.
+
+thread 
+'''
+'''
+from subprocess import *
+
+#Popen("/Applications/Calculator.app")
+print("다음")
+#call("/Applications/Calculator.app")
+print("다음2")
+'''
+
+import threading, time
+
+def run(id):
+    for i in range(1, 101):
+        print('id')

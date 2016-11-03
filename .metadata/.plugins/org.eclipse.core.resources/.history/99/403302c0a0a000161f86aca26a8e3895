@@ -1,0 +1,24 @@
+'''
+Created on 2016. 11. 2.
+
+서울시 도서관 정보 읽기
+'''
+import json
+import requests
+
+def spider():
+    base_url = 'http://openapi.seoul.go.kr:8088/sample/json/SeoulLibraryTime/1/5/'
+    source_code = requests.get(base_url)
+    
+    #print(source_code)
+    plain_text = source_code.text
+    print(plain_text)
+    
+    print()
+    json_data = json.loads(plain_text)
+    print(json_data)
+    print()
+    print(json_data['SeoulLibraryTime'])
+    
+if __name__ == '__main__':
+    spider()

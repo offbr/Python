@@ -1,0 +1,9 @@
+'''
+Created on 2016. 11. 1.
+서버 서비스 유지
+'''
+import socket
+import sys
+
+HOST = ''
+PORT = 7878

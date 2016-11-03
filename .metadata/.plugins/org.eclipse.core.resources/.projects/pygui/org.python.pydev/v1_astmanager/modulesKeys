@@ -4,3 +4,6 @@ pack.gui.__init__|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/__ini
 pack.gui.gui1|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/gui1.py
 pack.gui.gui2|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/gui2.py
 pack.gui.gui3|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/gui3.py
+pack.gui.gui4|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/gui4.py
+pack.gui.gui5Calc|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/gui5Calc.py
+pack.gui.guitest|/Users/All/Documents/work/workspace/pysou/pygui/pack/gui/guitest.py

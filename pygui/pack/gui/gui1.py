@@ -2,6 +2,7 @@
 GUI : wxPython
 '''
 import wx
+import wxPython
 # app = wx.App()
 # frame = wx.Frame(None, title='연습')
 # frame.Center()
@@ -19,13 +20,17 @@ class Test1(wx.Frame):
         #Frame에 메뉴 추가
         menuBar = wx.MenuBar()
         mnuFile = wx.Menu()
+        
         mnuNew = wx.MenuItem(mnuFile, wx.ID_NEW, 'New','새글')
-        mnuFile.Append(mnuNew)
+        
+        
         mnuOpen = mnuFile.Append(wx.ID_OPEN, 'Open','열기')
         mnuFile.AppendSeparator()
         mnuExit = mnuFile.Append(wx.ID_EXIT, 'Exit','닫기')
         
+        mnuFile.Append(mnuNew)
         menuBar.Append(mnuFile,"file")
+        
         self.SetMenuBar(menuBar)
         self.Center()
         

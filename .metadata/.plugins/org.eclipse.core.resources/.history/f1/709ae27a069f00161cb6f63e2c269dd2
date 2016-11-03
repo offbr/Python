@@ -1,0 +1,20 @@
+'''
+Created on 2016. 10. 31.
+
+부서번호 입력 후 직원자료 읽
+'''
+import MySQLdb
+
+config = {
+    'host' : '127.0.0.1',
+    'user' : 'root',
+    'password' : '',
+    'database' : 'test',
+    'port' : 3306,
+    'use_unicode' : True,
+    'charset' : 'utf8'
+    }
+
+try:
+    conn = MySQLdb.connect(**config)
+    cursor = conn.cursor()
