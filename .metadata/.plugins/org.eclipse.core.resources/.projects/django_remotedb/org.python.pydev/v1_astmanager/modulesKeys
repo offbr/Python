@@ -1,0 +1,14 @@
+MODULES_MANAGER_V2
+django_remotedb.__init__|/Users/All/Documents/work/workspace/pysou/django_remotedb/django_remotedb/__init__.py
+django_remotedb.settings|/Users/All/Documents/work/workspace/pysou/django_remotedb/django_remotedb/settings.py
+django_remotedb.urls|/Users/All/Documents/work/workspace/pysou/django_remotedb/django_remotedb/urls.py
+django_remotedb.wsgi|/Users/All/Documents/work/workspace/pysou/django_remotedb/django_remotedb/wsgi.py
+manage|/Users/All/Documents/work/workspace/pysou/django_remotedb/manage.py
+myguest.__init__|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/__init__.py
+myguest.admin|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/admin.py
+myguest.apps|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/apps.py
+myguest.migrations.0001_initial|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/migrations/0001_initial.py
+myguest.migrations.__init__|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/migrations/__init__.py
+myguest.models|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/models.py
+myguest.tests|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/tests.py
+myguest.views|/Users/All/Documents/work/workspace/pysou/django_remotedb/myguest/views.py

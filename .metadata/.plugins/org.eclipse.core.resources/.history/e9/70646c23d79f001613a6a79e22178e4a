@@ -1,7 +1,0 @@
-'''
-Created on 2016. 11. 1.
-
-thread로 날짜, 시간 출력
-'''
-import time
-now = time.localtime()

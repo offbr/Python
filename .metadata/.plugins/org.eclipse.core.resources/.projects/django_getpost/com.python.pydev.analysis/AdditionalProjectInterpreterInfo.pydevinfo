@@ -1,0 +1,56 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/django_getpost/com.python.pydev.analysis/v2_indexcache
+gtapp.apps|1478480035000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/apps.py
+django_getpost.wsgi|1478479913000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/wsgi.py
+gtapp.urls|1478482397000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/urls.py
+django_getpost.__init__|1478479913000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/__init__.py
+gtapp.models|1478480035000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/models.py
+gtapp.admin|1478480035000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/admin.py
+gtapp.tests|1478480035000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/tests.py
+manage|1478479913000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/manage.py
+gtapp.views|1478483040000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/views.py
+gtapp.__init__|1478480035000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/__init__.py
+django_getpost.settings|1478482903000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/settings.py
+django_getpost.urls|1478482090000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/urls.py
+gtapp.migrations.__init__|1478480035000000000|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/migrations/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=gtapp.views
+7=GtappConfig
+8=CallView
+4=gtapp.apps
+2=django_getpost.wsgi
+6=gtapp.urls
+1=django_getpost.settings
+5=django_getpost.urls
+-- END DICTIONARY
+-- START TREE 1
+20
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+cal|1|CallView!25@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+gta|1|GtappConfig!33@
+ins|2|INSTALLED_APPS!11@InsertFunc!26@
+lan|1|LANGUAGE_CODE!11@
+mai|1|MainFunc!26@
+mid|1|MIDDLEWARE!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|2|TEMPLATES!11@TEMPLATES_DIR!11@
+tim|1|TIME_ZONE!11@
+url|2|urlpatterns!43@urlpatterns!51@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+2
+nam|1|name!7&35@
+tem|1|template_name!8&27@
+-- END TREE

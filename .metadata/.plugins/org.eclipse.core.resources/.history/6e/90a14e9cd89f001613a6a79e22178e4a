@@ -1,7 +1,0 @@
-'''
-Created on 2016. 11. 1.
-
-thread 상속
-'''
-from logging.config import thread
-class MyThread(thread):

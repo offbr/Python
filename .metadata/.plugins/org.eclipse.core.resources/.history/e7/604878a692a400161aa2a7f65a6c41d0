@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>세션 이해하기</h2>
+<strong>운영체제 선택</strong>
+<ul>
+	<li><a href="/setos/?favorite_os"></a></li>
+
+</ul>
+</body>
+</html>

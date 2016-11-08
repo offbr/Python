@@ -1,0 +1,53 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/django_test/com.python.pydev.analysis/v2_indexcache
+aapp.models|1478230328000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/models.py
+aapp.__init__|1478230328000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/__init__.py
+aapp.tests|1478230328000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/tests.py
+aapp.admin|1478230328000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/admin.py
+aapp.urls|1478231862000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/urls.py
+django_test.settings|1478231140000000000|/Users/All/Documents/work/workspace/pysou/django_test/django_test/settings.py
+aapp.apps|1478230328000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/apps.py
+aapp.views|1478230833000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/views.py
+manage|1478236464000000000|/Users/All/Documents/work/workspace/pysou/django_test/manage.py
+django_test.wsgi|1478230287000000000|/Users/All/Documents/work/workspace/pysou/django_test/django_test/wsgi.py
+django_test.__init__|1478230287000000000|/Users/All/Documents/work/workspace/pysou/django_test/django_test/__init__.py
+aapp.migrations.__init__|1478230328000000000|/Users/All/Documents/work/workspace/pysou/django_test/aapp/migrations/__init__.py
+django_test.urls|1478231870000000000|/Users/All/Documents/work/workspace/pysou/django_test/django_test/urls.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+3=django_test.wsgi
+5=aapp.urls
+7=AappConfig
+6=django_test.urls
+2=django_test.settings
+1=aapp.apps
+4=aapp.views
+-- END DICTIONARY
+-- START TREE 1
+19
+aap|1|AappConfig!9@
+all|1|ALLOWED_HOSTS!19@
+app|1|application!27@
+aut|1|AUTH_PASSWORD_VALIDATORS!19@
+bas|1|BASE_DIR!19@
+dat|1|DATABASES!19@
+deb|1|DEBUG!19@
+hel|4|hello_template!34@hello!34@hello_image!34@hello_template2!34@
+ins|1|INSTALLED_APPS!19@
+lan|1|LANGUAGE_CODE!19@
+mid|1|MIDDLEWARE!19@
+roo|1|ROOT_URLCONF!19@
+sec|1|SECRET_KEY!19@
+sta|1|STATIC_URL!19@
+tem|2|TEMPLATES!19@TEMPLATE_DIR!19@
+tim|1|TIME_ZONE!19@
+url|2|urlpatterns!43@urlpatterns!51@
+use|3|USE_I18N!19@USE_TZ!19@USE_L10N!19@
+wsg|1|WSGI_APPLICATION!19@
+-- END TREE
+-- START TREE 2
+1
+nam|1|name!7&11@
+-- END TREE

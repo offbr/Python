@@ -1,0 +1,11 @@
+from django.shortcuts import render
+
+# Create your views here.
+def main(requset):
+    pass
+    
+def setos(requset):
+    pass
+
+def showos(requset):
+    pass

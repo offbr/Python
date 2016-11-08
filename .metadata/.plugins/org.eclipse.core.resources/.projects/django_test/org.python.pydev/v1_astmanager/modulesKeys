@@ -1,0 +1,14 @@
+MODULES_MANAGER_V2
+aapp.__init__|/Users/All/Documents/work/workspace/pysou/django_test/aapp/__init__.py
+aapp.admin|/Users/All/Documents/work/workspace/pysou/django_test/aapp/admin.py
+aapp.apps|/Users/All/Documents/work/workspace/pysou/django_test/aapp/apps.py
+aapp.migrations.__init__|/Users/All/Documents/work/workspace/pysou/django_test/aapp/migrations/__init__.py
+aapp.models|/Users/All/Documents/work/workspace/pysou/django_test/aapp/models.py
+aapp.tests|/Users/All/Documents/work/workspace/pysou/django_test/aapp/tests.py
+aapp.urls|/Users/All/Documents/work/workspace/pysou/django_test/aapp/urls.py
+aapp.views|/Users/All/Documents/work/workspace/pysou/django_test/aapp/views.py
+django_test.__init__|/Users/All/Documents/work/workspace/pysou/django_test/django_test/__init__.py
+django_test.settings|/Users/All/Documents/work/workspace/pysou/django_test/django_test/settings.py
+django_test.urls|/Users/All/Documents/work/workspace/pysou/django_test/django_test/urls.py
+django_test.wsgi|/Users/All/Documents/work/workspace/pysou/django_test/django_test/wsgi.py
+manage|/Users/All/Documents/work/workspace/pysou/django_test/manage.py

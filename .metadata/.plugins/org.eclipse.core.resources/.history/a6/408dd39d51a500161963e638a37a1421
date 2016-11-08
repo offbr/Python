@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>** 친구 목록 **</h2>
+{% if friends.count > 0 %}
+<table border="1">
+	<tr><th>id</th><th>irum</th><th>juso</th><th>nai</th></tr>
+	{% for a in friends %}
+	<tr>
+		<td></td>
+	</tr>
+	{% endfor %}
+</table>
+{% else %}
+
+{% endif %}
+</body>
+</html>

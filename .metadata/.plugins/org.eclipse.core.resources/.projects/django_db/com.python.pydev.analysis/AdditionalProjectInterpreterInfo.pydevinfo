@@ -1,0 +1,67 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/django_db/com.python.pydev.analysis/v2_indexcache
+django_db.wsgi|1478488752000000000|/Users/All/Documents/work/workspace/pysou/django_db/django_db/wsgi.py
+myapp.views|1478490663000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/views.py
+myapp.migrations.__init__|1478488762000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/migrations/__init__.py
+myapp.models|1478488975000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/models.py
+manage|1478488752000000000|/Users/All/Documents/work/workspace/pysou/django_db/manage.py
+myapp.admin|1478491443000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/admin.py
+myapp.apps|1478488762000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/apps.py
+myapp.migrations.0001_initial|1478489252000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/migrations/0001_initial.py
+django_db.settings|1478488830000000000|/Users/All/Documents/work/workspace/pysou/django_db/django_db/settings.py
+django_db.urls|1478489711000000000|/Users/All/Documents/work/workspace/pysou/django_db/django_db/urls.py
+myapp.tests|1478488762000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/tests.py
+myapp.__init__|1478488762000000000|/Users/All/Documents/work/workspace/pysou/django_db/myapp/__init__.py
+django_db.__init__|1478488752000000000|/Users/All/Documents/work/workspace/pysou/django_db/django_db/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=django_db.wsgi
+3=myapp.admin
+5=myapp.views
+11=ArticleAdmin
+6=myapp.migrations.0001_initial
+7=myapp.apps
+1=django_db.settings
+10=Migration
+9=Article
+12=MyappConfig
+8=django_db.urls
+4=myapp.models
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+art|2|ArticleAdmin!25@Article!33@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+dbt|1|dbtest!42@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+mig|1|Migration!49@
+mya|1|MyappConfig!57@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|2|TEMPLATE_DIR!11@TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!67@
+use|3|USE_TZ!11@USE_L10N!11@USE_I18N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+8
+cod|1|code!9&35@
+dep|1|dependencies!10&51@
+ini|1|initial!10&51@
+lis|1|list_display!11&27@
+nam|2|name!9&35@name!12&59@
+ope|1|operations!10&51@
+pri|1|price!9&35@
+pub|1|pub_date!9&35@
+-- END TREE

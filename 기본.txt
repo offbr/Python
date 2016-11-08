@@ -1,0 +1,5 @@
+
+MACui-MacBook-Pro:~ All$ cd /Users/All/Documents/work/workspace/pysou/django_remotedb
+MACui-MacBook-Pro:django_remotedb All$ python manage.py makemigrations
+MACui-MacBook-Pro:django_remotedb All$ python manage.py migrate
+MACui-MacBook-Pro:django_remotedb All$ python manage.py createsuperuser

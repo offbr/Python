@@ -1,7 +1,0 @@
-'''
-Created on 2016. 11. 1.
-
-thread 상속
-'''
-import threading
-class MyThread(threading.Thread):

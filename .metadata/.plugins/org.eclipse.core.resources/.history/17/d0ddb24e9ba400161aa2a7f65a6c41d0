@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>**자료 목록**</h2>
+{% if articles.count > 0 %}
+
+{% else %}
+
+{% endif %}
+</body>
+</html>

@@ -1,0 +1,65 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/django_abc_ex/com.python.pydev.analysis/v2_indexcache
+myfriend.tests|1478566613000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/tests.py
+myfriend.__init__|1478566613000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/__init__.py
+django_abc_ex.wsgi|1478566597000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/django_abc_ex/wsgi.py
+myfriend.migrations.0001_initial|1478567087000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/migrations/0001_initial.py
+manage|1478566597000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/manage.py
+myfriend.migrations.__init__|1478566613000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/migrations/__init__.py
+django_abc_ex.settings|1478566657000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/django_abc_ex/settings.py
+myfriend.models|1478567445000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/models.py
+myfriend.views|1478567515000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/views.py
+myfriend.apps|1478566613000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/apps.py
+myfriend.admin|1478567490000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/myfriend/admin.py
+django_abc_ex.__init__|1478566597000000000|/Users/All/Documents/work/workspace/pysou/django_abc_ex/django_abc_ex/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+1=django_abc_ex.settings
+3=myfriend.views
+5=myfriend.models
+7=myfriend.apps
+9=Friend
+2=django_abc_ex.wsgi
+6=myfriend.migrations.0001_initial
+8=Migration
+4=myfriend.admin
+10=FriendAdmin
+11=MyfriendConfig
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+dbt|1|dbtest!26@
+deb|1|DEBUG!11@
+fri|2|FriendAdmin!33@Friend!41@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+mig|1|Migration!49@
+myf|1|MyfriendConfig!57@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|2|TEMPLATE_DIR!11@TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|0|
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+8
+dep|1|dependencies!8&51@
+ini|1|initial!8&51@
+iru|1|irum!9&43@
+jus|1|juso!9&43@
+lis|1|list_display!10&35@
+nai|1|nai!9&43@
+nam|1|name!11&59@
+ope|1|operations!8&51@
+-- END TREE

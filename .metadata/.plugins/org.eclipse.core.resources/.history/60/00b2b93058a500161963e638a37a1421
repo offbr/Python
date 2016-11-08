@@ -1,0 +1,8 @@
+from django.contrib import admin
+
+# Register your models here.
+'''
+MACui-MacBook-Pro:~ All$ cd /Users/All/Documents/work/workspace/pysou/django_remotedb
+MACui-MacBook-Pro:django_remotedb All$ python manage.py makemigrations
+
+'''

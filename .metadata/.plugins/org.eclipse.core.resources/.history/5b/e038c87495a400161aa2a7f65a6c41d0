@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>세션 결과 확인 (5초 후 해제)</h2>
+<strong>운영체제 선택결과</strong>
+<br>context 값 : {{message}}
+<br><br><a href='/setos'>운영체제 선택</a>
+<br><a href='/'>메인 페이지</a> 
+</body>
+</html>

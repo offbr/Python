@@ -1,0 +1,8 @@
+'''
+Created on 2016. 11. 7.
+'''
+from django.conf.urls import url
+
+urlpatterns = [
+    url(r'^insert/$', views.InsertFunc, name='InsertFunc')    
+]

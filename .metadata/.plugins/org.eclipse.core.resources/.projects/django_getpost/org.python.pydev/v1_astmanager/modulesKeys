@@ -1,0 +1,14 @@
+MODULES_MANAGER_V2
+django_getpost.__init__|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/__init__.py
+django_getpost.settings|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/settings.py
+django_getpost.urls|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/urls.py
+django_getpost.wsgi|/Users/All/Documents/work/workspace/pysou/django_getpost/django_getpost/wsgi.py
+gtapp.__init__|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/__init__.py
+gtapp.admin|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/admin.py
+gtapp.apps|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/apps.py
+gtapp.migrations.__init__|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/migrations/__init__.py
+gtapp.models|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/models.py
+gtapp.tests|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/tests.py
+gtapp.urls|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/urls.py
+gtapp.views|/Users/All/Documents/work/workspace/pysou/django_getpost/gtapp/views.py
+manage|/Users/All/Documents/work/workspace/pysou/django_getpost/manage.py

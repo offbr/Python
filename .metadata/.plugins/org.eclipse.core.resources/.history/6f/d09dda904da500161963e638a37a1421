@@ -1,0 +1,5 @@
+<h2>**자료 목록**</h2>
+<div style="color: blue;">
+{% block content %}
+{% endblock%}
+</div>

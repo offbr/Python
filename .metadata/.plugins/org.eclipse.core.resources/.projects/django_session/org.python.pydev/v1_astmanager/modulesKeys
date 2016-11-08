@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+django_session.__init__|/Users/All/Documents/work/workspace/pysou/django_session/django_session/__init__.py
+django_session.settings|/Users/All/Documents/work/workspace/pysou/django_session/django_session/settings.py
+django_session.urls|/Users/All/Documents/work/workspace/pysou/django_session/django_session/urls.py
+django_session.wsgi|/Users/All/Documents/work/workspace/pysou/django_session/django_session/wsgi.py
+manage|/Users/All/Documents/work/workspace/pysou/django_session/manage.py
+sessionapp.__init__|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/__init__.py
+sessionapp.admin|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/admin.py
+sessionapp.apps|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/apps.py
+sessionapp.migrations.__init__|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/migrations/__init__.py
+sessionapp.models|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/models.py
+sessionapp.tests|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/tests.py
+sessionapp.views|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/views.py

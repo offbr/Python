@@ -1,8 +1,0 @@
-'''
-Created on 2016. 11. 1.
-
-thread 
-'''
-from subprocess import *
-
-Popen()

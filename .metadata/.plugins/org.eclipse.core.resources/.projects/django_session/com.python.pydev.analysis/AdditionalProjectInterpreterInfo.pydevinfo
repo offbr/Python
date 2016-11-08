@@ -1,0 +1,53 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/django_session/com.python.pydev.analysis/v2_indexcache
+django_session.settings|1478485075000000000|/Users/All/Documents/work/workspace/pysou/django_session/django_session/settings.py
+django_session.wsgi|1478484981000000000|/Users/All/Documents/work/workspace/pysou/django_session/django_session/wsgi.py
+django_session.__init__|1478484981000000000|/Users/All/Documents/work/workspace/pysou/django_session/django_session/__init__.py
+sessionapp.migrations.__init__|1478485009000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/migrations/__init__.py
+sessionapp.models|1478485009000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/models.py
+sessionapp.admin|1478485009000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/admin.py
+django_session.urls|1478485275000000000|/Users/All/Documents/work/workspace/pysou/django_session/django_session/urls.py
+sessionapp.tests|1478485009000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/tests.py
+sessionapp.__init__|1478485009000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/__init__.py
+sessionapp.apps|1478485009000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/apps.py
+manage|1478484981000000000|/Users/All/Documents/work/workspace/pysou/django_session/manage.py
+sessionapp.views|1478487203000000000|/Users/All/Documents/work/workspace/pysou/django_session/sessionapp/views.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=django_session.settings
+2=django_session.wsgi
+6=SessionappConfig
+5=django_session.urls
+4=sessionapp.apps
+3=sessionapp.views
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mai|1|main!26@
+mid|1|MIDDLEWARE!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+ses|1|SessionappConfig!33@
+set|1|setos!26@
+sho|1|showos!26@
+sta|1|STATIC_URL!11@
+tem|2|TEMPLATES_DIR!11@TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!43@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+1
+nam|1|name!6&35@
+-- END TREE

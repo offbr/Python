@@ -1,0 +1,64 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/All/Documents/work/workspace/pysou/.metadata/.plugins/org.eclipse.core.resources/.projects/abc_django/com.python.pydev.analysis/v2_indexcache
+abc_django.urls|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/abc_django/urls.py
+myapp.views|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/views.py
+ourapp.admin|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/admin.py
+abc_django.wsgi|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/abc_django/wsgi.py
+ourapp.models|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/models.py
+myapp.migrations.__init__|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/migrations/__init__.py
+myapp.models|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/models.py
+ourapp.views|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/views.py
+manage|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/manage.py
+abc_django.settings|1478228776000000000|/Users/All/Documents/work/workspace/pysou/abc_django/abc_django/settings.py
+myapp.admin|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/admin.py
+myapp.apps|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/apps.py
+abc_django.__init__|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/abc_django/__init__.py
+ourapp.tests|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/tests.py
+ourapp.__init__|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/__init__.py
+myapp.urls|1478228423000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/urls.py
+myapp.tests|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/tests.py
+ourapp.migrations.__init__|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/migrations/__init__.py
+myapp.__init__|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/myapp/__init__.py
+ourapp.apps|1478228382000000000|/Users/All/Documents/work/workspace/pysou/abc_django/ourapp/apps.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+1=abc_django.settings
+7=abc_django.urls
+3=myapp.views
+4=myapp.apps
+9=MyappConfig
+2=abc_django.wsgi
+6=myapp.urls
+8=OurappConfig
+5=ourapp.apps
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+hel|4|hello_image!26@hello!26@hello_template!26@hello_template2!26@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+med|2|MEDIA_ROOT!11@MEDIA_URL!11@
+mid|1|MIDDLEWARE!11@
+mya|1|MyappConfig!33@
+our|1|OurappConfig!41@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|2|TEMPLATES!11@TEMPLATE_DIR!11@
+tim|1|TIME_ZONE!11@
+url|2|urlpatterns!51@urlpatterns!59@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+1
+nam|2|name!8&43@name!9&35@
+-- END TREE
